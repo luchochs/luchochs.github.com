@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Imágenes | Fractalmente.local]]></title>
+  <link href="http://luchochs.github.com/blog/categories/imagenes/atom.xml" rel="self"/>
+  <link href="http://luchochs.github.com/"/>
+  <updated>2013-04-01T06:16:53-03:00</updated>
+  <id>http://luchochs.github.com/</id>
+  <author>
+    <name><![CDATA[Luciano]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Ramaje encauzado]]></title>
+    <link href="http://luchochs.github.com/blog/2013-03-31-ramaje-encauzado/"/>
+    <updated>2013-03-31T04:07:00-03:00</updated>
+    <id>http://luchochs.github.com/blog/ramaje-encauzado</id>
+    <content type="html"><![CDATA[<p>La trama formada por el tronco y ramas de los árboles como así también por los ríos secundarios y primario, presentan un similar patrón fractal de desarrollo. Gracias a la contemporánea capacidad creativa de dos grandes del ilusionismo gráfico, podemos ver cómo lo expresado en el anterior párrafo se transforma en obra de arte de carácter ambiguo.
+<img class="left" src="/images/gonsalves_ramaje_encauzado.jpg"></p>
+
+<!--more-->
+
+
+<p><img class="left" src="/images/kush_ramaje_encauzado.jpg"></p>
+]]></content>
+  </entry>
+  
+</feed>
