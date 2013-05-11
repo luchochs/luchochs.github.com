@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: / 
+Disallow:
 
-Sitemap: http://luchochs.github.com/sitemap.xml 
+Sitemap: http://luchochs.github.com/sitemap.xml
